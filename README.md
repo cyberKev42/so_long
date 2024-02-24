@@ -1,7 +1,6 @@
 # so_long
-Creation of my own 2D game.
 
-I createed a basic 2D game in which a spaceship invades planets and leaves through a black hole.
+Creation of my own 2D game in which a spaceship invades planets and leaves through a black hole.
 
 I used a basic graphical library called MiniLibX (based on the X11 library) developed for students and provided by 42 Vienna.
 
