@@ -21,4 +21,4 @@ C for a collectible
 E for a map exit  
 P for the player’s starting position  
 
-!(so_long)[https://github.com/cyberKev42/so_long/blob/main/so_long/so_long_gameplay.gif]
+![so_long](https://github.com/cyberKev42/so_long/blob/main/so_long/so_long_gameplay.gif)
